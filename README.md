@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a tech nerd with expertise in Video Games, IT,
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on full-stack applications leveraging .NET Core and React.
+- 🔭 I’m currently working on full-stack applications leveraging .NET Core, React and Azure App Services.
 - 🌱 I’m constantly learning new technologies and improving my skills in whatever pulls my interest.
 - 📫 Reach out to me on LinkedIn with the Profile URL below.
 
